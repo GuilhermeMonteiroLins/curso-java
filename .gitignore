@@ -1,0 +1,5 @@
+# Ignorar pasta utilizado apenas no EclipseIDE
+.metadata/
+
+# Ignorar arquivos de log
+*.log
